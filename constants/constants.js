@@ -1,21 +1,21 @@
 export const NAME = '栗山優希';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `MERN Stack Developer | Backend Developer | Blockchain Developer`;
 
 export const DETAILS = {
-  Residence: 'Japan',
-  City: 'Peshawar',
-  Age: '27',
+  国名: '日本',
+  都市: '西宮市',
+  年齢: '27',
 };
 
 export const SKILLS = [
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '95%',
   },
   {
     title: 'React Developer',
-    level: '91%',
+    level: '90%',
   },
   // {
   //   title: 'Desktop Application Developer',
@@ -23,31 +23,37 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '90%',
   },
   {
-    title: 'Technical Blogger',
-    level: '83%',
+    title: 'Blockchain Developer',
+    level: '85%',
   },
 ];
 
 export const TECH_STACK = [
   'JavaScript',
-  'ReactJS',
-  'NextJS',
-  'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
-  'CSS',
-  'SCSS',
   'TailwindCSS',
   'Ant Design',
   'Material UI',
   'Next UI',
+  'VueJS',
+  'NuxtJS',
+  'ReactJS',
+  'NextJS',
+  'TypeScript',
+  'React Native',
+  'PHP',
+  'Laravel',
+  'NodeJS',
+  'NestJS',
+  'Solidity',
+  'Solana',
   'REST API',
   'MongoDB',
   'MySQL',
+  'Redux',
+  'Zustand',
   'Git',
   'GitHub',
   'Jira',
@@ -56,12 +62,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  メールアドレス: 'mccopybaica@gmail.com',
+  電話番号: '***',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/yk909',
+  // LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
+  // TWITTER: 'https://twitter.com/iosamajavaid',
+  // FACEBOOK: 'https://www.facebook.com/iosamajavaid',
 };
