@@ -3,9 +3,9 @@ export const NAME = '栗山優希';
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
+  Residence: 'Japan',
   City: 'Peshawar',
-  Age: '23',
+  Age: '27',
 };
 
 export const SKILLS = [
