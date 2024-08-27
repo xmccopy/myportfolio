@@ -26,7 +26,7 @@ const recommendationCard = [
   },
   {
     id: 3,
-    name: 'Muhammad Ullah',
+    name: '栗山優希',
     image: "images/muhammad.jpeg",
     designation: 'MERN Stack Developer at Productbox',
     view: "I highly recommend Osama Javed for web frontend development positions. Their expertise in ReactJS and Next.js, combined with their professionalism and dedication, make them an invaluable asset to any team.",
