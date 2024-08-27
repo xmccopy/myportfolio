@@ -20,7 +20,9 @@ const Banner = () => {
                                                 options={{
                                                     strings:
                                                         ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                            'NexJs Developer',
+                                                            'Blockchain Developer'
+                                                        ],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
